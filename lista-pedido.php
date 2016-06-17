@@ -19,7 +19,6 @@
 
 <table class="table table-striped table-bordered">
 	<tr>		
-		<td><b>id</b></td>
 		<td><b>Produto</b></td>
 		<td><b>Cliente</b></td>		
 		<td><b>alterar</b></a>
@@ -29,7 +28,6 @@
 	foreach($pedidos as $pedido) :
 		?>
 	<tr>
-		<td><?= $pedido['id'] ?></td>
 		<td><?= buscaProduto($conexao, $pedido['id_produto'])['nome'] ?></td>
 		<td><?= buscaCliente($conexao, $pedido['id_cliente'])['nome'] ?></td>
 		<td><a class="btn btn-primary" href="formulario-pedido.php?id=<?=$pedido['id']?>">alterar</a>
