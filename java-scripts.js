@@ -42,7 +42,7 @@ function validacao(checarElementos) {
 		var nomeCheck = /^[a-zA-Z ]*$/;
 		if(!frm.nome.value.match(nomeCheck))  
 	    {  
-	    	alert("Não é permitido números no campo de nome.");  
+	    	alert("Somente letras são permitidas no campo nome.");  
 	       	return false;  
 	    }  
 	}
@@ -120,7 +120,7 @@ function validacao(checarElementos) {
 
 		if (!hasWhiteSpace(myTrim(frm.descricao.value)))
 		{
-			alert("Por favor, digite pelo menos duas palavras.");
+			alert("Por favor, digite pelo menos duas palavras na descrição.");
 			frm.descricao.focus(); 
 			return false;
 		}
