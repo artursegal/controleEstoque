@@ -1,6 +1,6 @@
 # controleEstoque
 
-Sistema  desenvolvido como teste para Editora Abril como teste para Desenvolvedor Web.
+Sistema  desenvolvido como teste para Editora Abril para Desenvolvedor Web.
 
 Autor: Artur Segal Kaim
 
