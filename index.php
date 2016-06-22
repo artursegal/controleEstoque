@@ -20,24 +20,6 @@ artursegal@gmail.com
 (011) 97619-6510
 
 
-<div class='container'>
-
-<div class="ism-slider" id="my-slider">
-  <ol>
-    <li>
-      <img src="ism/image/slides/_u/1466409850145_202130.png">      
-    </li>
-    <li>
-      <img src="ism/image/slides/_u/1466409854940_738895.png">
-    </li>
-    <li>
-      <img src="ism/image/slides/_u/1466409856259_312018.png">
-    </li>
-    <li>
-      <img src="ism/image/slides/_u/1466409856272_740199.png">
-    </li>
-  </ol>
-</div>
 
 <?php 
     include("rodape.php")
