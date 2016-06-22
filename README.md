@@ -1,8 +1,7 @@
 # controleEstoque
 
-Esse sistema foi desenvolvido para a Service como teste para Desenvolvedor Web.
+Sistema  desenvolvido como teste para Editora Abril como teste para Desenvolvedor Web.
 
 Autor: Artur Segal Kaim
 
-artursegal@gmail.com
-(011) 97619-6510 
+artursegal@gmail.com (011) 97619-6510 
